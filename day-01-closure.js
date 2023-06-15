@@ -1,4 +1,6 @@
 /*
+https://leetcode.com/problems/create-hello-world-function/
+
 Write a function createHelloWorld. It should return a new function that always returns "Hello World". 
 
 Runtime 57 ms Beats 55.38%

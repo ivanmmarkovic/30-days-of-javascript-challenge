@@ -1,10 +1,7 @@
 /*
-
 https://leetcode.com/problems/array-reduce-transformation
 
-Runtime 57 ms Beats 80.27%
-Memory 42.7 MB Beats 37.61%
-
+Easy
 
 Given an integer array nums, a reducer function fn, and an initial value init, return a reduced array.
 
@@ -14,6 +11,9 @@ If the length of the array is 0, it should return init.
 
 Please solve it without using the built-in Array.reduce method.
 
+
+Runtime 57 ms Beats 80.27%
+Memory 42.7 MB Beats 37.61%
 */
 
 

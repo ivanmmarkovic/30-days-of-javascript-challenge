@@ -2,14 +2,15 @@
 /*
 https://leetcode.com/problems/counter
 
-
-Runtime 60 ms Beats 40.25%
-Memory 41.8 MB Beats 63.13%
+Easy
 
 Given an integer n, return a counter function. 
 This counter function initially returns n 
 and then returns 1 more than the previous value 
 every subsequent time it is called (n, n + 1, n + 2, etc).
+
+Runtime 60 ms Beats 40.25%
+Memory 41.8 MB Beats 63.13%
 */
 
 
